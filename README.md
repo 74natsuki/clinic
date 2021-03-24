@@ -1,1 +1,1 @@
-# clinic.github.io
+# clinic
