@@ -1,0 +1,101 @@
+@media(max-width:670px) {
+    header,
+    .main,
+    footer {
+        width: 100%;
+    }
+    .header-contents,
+    .footer-contents {
+        height: auto;
+    }
+    .header-left {
+        float: none;
+        margin-top: 0;
+        text-align: center;
+    }
+    .header-right {
+        float: none;
+    }
+    .header-right p {
+        text-align: center;
+    }
+    .catchy-phrase {
+        margin: 0;
+    }
+    .top-menu-all {
+        border: none;
+    }
+    .top-menu {
+        width: 50%;
+        border-radius: 5px;
+    }
+    .main-right {
+        float: none;
+        width: 100%;
+    }
+    .footer-menu {
+        width: auto;
+        margin: 0 10px;
+    }
+    .footer-adress {
+        margin-right: 10px;
+    }
+    .sp {
+        display: block;
+    }
+    /* index.html */
+    .no-img {
+        height: auto;
+        width: 100%;
+    }
+    .news-wrapper {
+        height: auto;
+        width: 100%;
+    }
+    .news-wrapper h3 {
+        width: 90%;
+    }
+    .date {
+        float: none;
+    }
+    .main-contents {
+        padding: 20px 10px;
+    }
+    .main-left {
+        float: none;
+        width: 100%;
+    }
+    /* clinic.html */
+    .main-right h2 {
+        height: auto;
+        padding: 15px 0 15px 20px;
+    }
+    /* staff.html */
+    .profile-left {
+        float: none;
+        text-align: center;
+    }
+    .profile-right {
+        padding: 0;
+    }
+    .st02 {
+        height: auto;
+        width: 100%;
+    }
+    /* access.html */
+    .map {
+        height: auto;
+        width: 100%;
+    }
+    .main-right iframe {
+        height: auto;
+        width: 100%;
+    }
+    .access-left {
+        float: none;
+        text-align: center;
+    }
+    .access-right {
+        margin: 0;
+    }
+}
